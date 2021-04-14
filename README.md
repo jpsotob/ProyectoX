@@ -12,7 +12,7 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
   * Item 2b
 
   
-  ```python
+```python
 name = 'Scott'
 print 'Hi my name is ' + name
 ```
